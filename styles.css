@@ -1,0 +1,96 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	background-image: url(hatter.jpg);
+	background-repeat: round;
+	margin: 0px;
+}
+#head {
+	background-image: url(starcraftlogo.png);
+	padding-top: 170px;
+	background-color: #000;
+	background-repeat: no-repeat;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 16px;
+	color: #09C;
+}
+
+#container {
+	background-color: #000;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	border: thin solid #09F;
+	text-align: justify;
+}
+#footer {
+	text-align: center;
+	padding: 10px;
+	color: #FFF;
+	clear: both;
+}
+#left {
+	padding: 20px;
+	float: left;
+	width: 300px;
+	background-color: #000;
+	color: #FFF;
+}
+#right {
+	margin-left: 360px;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	color: #FFF;
+}
+#right h1, h2 {
+	color: #F90
+}
+
+#left h3 {
+	color: #09F
+}
+
+#galeria1{
+	float:left;
+	margin-left:60px;
+	margin-right:auto;
+	}
+	
+#galeria2{
+	float:right;
+	margin-left:auto;
+	margin-right:100px;
+	}
+
+a:link {
+	color: #09F;
+	text-decoration: none;
+}
+a:visited {
+	color: #999;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFF;
+}
+a:active {
+	color: #FFF;
+}
+
+
+
+.clearfloat {
+	font-size: 1px;
+	line-height: 0px;
+	margin: 0px;
+	height: 0px;
+}
+.imgFloat {
+	float: left;
+	margin-right: 10px;
+}
