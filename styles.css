@@ -10,7 +10,7 @@ body {
 
 /* Header/Blog Title */
 .header {
-  padding: 30px;
+  padding: 0;
   text-align: center;
   background: white;
 }
@@ -39,12 +39,12 @@ ul.topnav li a, .dropbtn {
 
 ul.topnav li a:hover:not(.active), .dropdown:hover .dropbtn {background-color: #111;}
 
-ul.topnav li a.active, .dropdown:hover .dropbtn {background-color: #4CAF50;}
+ul.topnav li a.active, .dropdown:hover .dropbtn {background-color: grey;}
 
 ul.topnav li.right li.dropdown {float: right;}
 
 li.dropdown {
-  
+
 }
 
 .dropdown-content {
