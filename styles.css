@@ -130,6 +130,7 @@ li.dropdown {
   padding: 20px;
   margin-top: 20px;
   text-align: justify;
+  float:left;
 }
 
 h2 {
@@ -174,5 +175,8 @@ a:active {
 
 .imgres {
   max-width: 100%;
-  height: auto;
+  height: 100%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
