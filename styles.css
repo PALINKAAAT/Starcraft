@@ -152,24 +152,22 @@ h2 {
   margin-top: 20px;
 }
 
-a:link {
-  color: yellow;
+a {
   background-color: transparent;
   text-decoration: none;
+}
+a:link {
+  color: yellow;
 }
 a:visited {
   color: lightblue;
-  background-color: transparent;
-  text-decoration: none;
 }
 a:hover {
   color: orange;
-  background-color: transparent;
   text-decoration: underline;
 }
 a:active {
   color: yellow;
-  background-color: transparent;
   text-decoration: underline;
 }
 
